@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_URI": "Put your String Here",
+        "SENDGRIND_API_KEY": "Put your API Key Here"
+    }
+}
